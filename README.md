@@ -1,2 +1,2 @@
 # WebServerGo
-An implementation of a HTTP server just to get equipped with Golang.
+A simple API built in go to serve static files
